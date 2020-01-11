@@ -283,6 +283,10 @@ body {
     border: none;
     padding: 1rem;
     border-radius: 1rem;
+    outline: none!important;
+    outline: none;
+border: 1px solid
+#5852c8;
 }
 
 .navbar-nav {
@@ -293,7 +297,7 @@ box-shadow: 0px 10px 30px
 }
 /* MEDIA QUERIES */
 
-@media (max-width: 992px) {
+@media (max-width: 1024px) {
     .main1 .main1-section .main1-heading h1 {
         font-size: 2.5rem;
     }
